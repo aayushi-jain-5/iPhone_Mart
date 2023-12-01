@@ -9,12 +9,13 @@ const About = () => {
                     <div className="col-md-6">
                         <h1 className="text-primary fw-bold mb-4">About Us</h1>
                         <p className="lead mb-4">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo molestiae earum rem doloremque, nihil delectus ullam error consectetur? Dicta, non exercitationem in consectetur totam dolorum at voluptate laudantium aliquam, officiis perspiciatis molestias reiciendis consequuntur ullam perferendis velit 
-                            blanditiis distinctio assumenda a maxime reprehenderit atque. Nam eius rerum
-                             distinctio, a illo earum, optio molestias nostrum maxime quibusdam 
-                            delectus, adipisci impedit? Nam corporis reiciendis minus quod eaque, laborum veritatis 
-                            voluptatibus id maiores tempore accusantium recusandae perspiciatis, officia cum ad maxime fuga repellendus a magni consequatur. Unde adipisci hic provident est sint corporis, dolorem esse autem soluta molestiae optio quisquam eligendi obcaecati minima?
-                        </p>
+                            Welcome to IPHONE Mart, where innovation meets excellence. Established in 2020, we are a passionate team of professionals dedicated to delivering cutting-edge solutions in our company. Our journey began with a vision to help people buy an iPhone at a reasonable price, and since then, we have evolved into a trusted company.
+
+At iPhone Mart, we take pride in our commitment to quality, creativity, and customer satisfaction. Our diverse team brings together a wealth of expertise, ensuring that we stay at the forefront of industry trends and deliver solutions that exceed expectations. Whether you're a friend or a stranger, we strive to provide you with the best deals on latest iPhones.
+
+Transparency and integrity are at the core of our operations. We believe in fostering long-term relationships with our clients, partners, and stakeholders. Our dedication to continuous improvement and staying ahead of the curve empowers us to offer you the latest and most effective solutions in IPhone Mart.
+
+Thank you for considering IPhone for your needs on buying the latest IPhones . Explore our website to discover more about our journey, values, and the innovative solutions we bring to the Iphone landscape. We look forward to being a part of your success story.</p>
                         <NavLink to="/contact" className="btn btn-outline-primary px-3">Contact Us</NavLink>
                     </div>
                     <div className="col-md-6 d-flex justify-content-center">
